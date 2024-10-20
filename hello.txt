@@ -18,10 +18,6 @@ Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!
-push
-push
-push
-push
-push
-push
-push
+pull
+pull
+pull
